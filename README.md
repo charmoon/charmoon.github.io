@@ -2,6 +2,7 @@
 
 多电脑同步先安装
 npm install hexo
+npm install -g hexo-cli
 npm install hexo-deployer-git
 
 hexo new post "新建文章" #简写形式 hexo n "新建文章"
